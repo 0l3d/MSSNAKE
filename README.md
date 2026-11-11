@@ -13,9 +13,19 @@ Run:
   
 `QBASIC.EXE /RUN SNAKE.BAS`
   
-## Development
+OR 
   
-Built step by step in the default QBasic editor. The game is split into small SUBs, which you can browse with F2:
+Run:
+  
+`SNAKE.EXE`  
+*standalone exe version.*  
+  
+## Development
+Download Microsoft QuickBASIC ![QuickBASIC](https://qbasic.net/en/qbasic-downloads/compiler/qbasic-compiler.htm)  
+Needed version 1.1 or later.  
+  
+Built step by step in the default QBasic editor. The game is split into small SUBs, which you can browse with F2:  
+
 ![SUBs list in the QBasic editor](memories/subslistfromqbasiceditor.png)
   
 Check [`memories/`](memories/) for more.
